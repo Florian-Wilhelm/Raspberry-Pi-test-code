@@ -10,7 +10,7 @@ SW V2.XX -> below an example web browser output (WD means "Watchdog").
 
 Port forwarding within the Local Area Network is not necessary; if you wanted to access this particular device from the internet, the router would have to forward port 78 and you would need to know the router's public IP address.  
 
-Since no SSL/TLS is or will be implemented (i.e. certificates), hence the connection is only HTTP, I would advise against making such a IoT device accessible to the wider world.
+Since no SSL/TLS is or will be implemented (i.e. certificates), hence the connection is only HTTP, I would advise against making such an IoT device accessible to the wider world.
 
 ![Screenshot_20260221_082506_Chrome](https://github.com/user-attachments/assets/9e813d88-88c5-4820-94d9-8a30f8fa005e)
 
