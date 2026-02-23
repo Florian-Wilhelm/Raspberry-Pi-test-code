@@ -12,7 +12,7 @@ SW V2.XX -> below an example web browser output (note: WD means "Watchdog")
 
 You can hardcode them, but it is possible to modify the WiFi credentials via Picotool (the .uf2-file has to be located in the respective directory):
 
-*$ picotool config HIH4020-humidityMeasurement.uf2 -s SSID "my WiFi"*
+*$ picotool config HIH4020-humidityMeasurement.uf2 -s SSID "WiFi-123"*
 
 *$ picotool config HIH4020-humidityMeasurement.uf2 -s PASS "001122334455"*
 
