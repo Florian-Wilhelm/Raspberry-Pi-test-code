@@ -20,7 +20,7 @@ You can hardcode them in your own build, but it is possible to modify the WiFi c
 
 *$ picotool config HIH4020-humidityMeasurement.uf2 -s PASS "001122334455"*
 
-The downside with this method is that these data is now plaintext in the uf2-file and readable in a HEX-Editor.
+The downside with this method is that these data is now plaintext in the .uf2-file and readable in a HEX-Editor.
 
 ![plaintext](https://github.com/user-attachments/assets/3e5d2040-7ced-4214-88fd-daaddf9500a5)
 
