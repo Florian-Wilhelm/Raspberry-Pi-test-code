@@ -24,7 +24,7 @@ The downside with this method is that these data is now plaintext in the .uf2-fi
 
 ![plaintext](https://github.com/user-attachments/assets/3e5d2040-7ced-4214-88fd-daaddf9500a5)
 
-With all that being said, you'll probably see that this code example is only meant and good enough for experimental use.
+With all that being said, you'll probably see that the given code example is only meant and good enough for experimental use.
 
 ## Hardware
 
