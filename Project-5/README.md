@@ -28,9 +28,7 @@ With all that being said, you'll probably see that this code example is only mea
 
 ## Hardware
 
-The ad-hoc arrangement.
-
-Wiring ESP8266 - Pico:
+The ad-hoc arrangement. Wiring ESP8266 - Pico (all other pins not connected):
 
 * Pin 1 - GND
 
@@ -41,7 +39,5 @@ Wiring ESP8266 - Pico:
 * Pin 7 (RXI) - GP4 (UART1 TX)
 
 * Pin 8 - 3.3V
-
-Other pins n.c.
 
 ![Konfiguration--HIH4020-103AT2-SFH300--edited](https://github.com/user-attachments/assets/4849d053-7d6d-408c-93bc-e882a25d550d)
