@@ -44,5 +44,4 @@ Wiring ESP8266 - Pico:
 
 Other pins n.c.
 
-
-![Konfiguration--HIH4020-103AT2-SFH300--edited](https://github.com/user-attachments/assets/aa5d2b48-5d35-4ad3-a9d1-a353af97cdb0)
+![Konfiguration--HIH4020-103AT2-SFH300--edited](https://github.com/user-attachments/assets/4849d053-7d6d-408c-93bc-e882a25d550d)
