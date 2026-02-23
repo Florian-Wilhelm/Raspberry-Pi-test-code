@@ -18,6 +18,8 @@ You can hardcode them, but it is possible to modify the WiFi credentials via Pic
 
 The downside with this method is that these data is now plaintext in the uf2-file and readable in a HEX-Editor.
 
+![plaintext](https://github.com/user-attachments/assets/3e5d2040-7ced-4214-88fd-daaddf9500a5)
+
 ## Hardware
 
 An ad-hoc arrangement for experimental use.
