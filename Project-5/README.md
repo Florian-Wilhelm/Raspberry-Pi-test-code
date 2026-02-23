@@ -32,15 +32,15 @@ The ad-hoc arrangement.
 
 Wiring ESP8266 - Pico:
 
-Pin 1: GND
+* Pin 1 - GND
 
-Pin 2 (TXO): Pico GP5 (UART1 RX)
+* Pin 2 (TXO) - GP5 (UART1 RX)
 
-Pin 4: 3.3V
+* Pin 4 - 3.3V
 
-Pin 7 (RXI): Pico GP4 (UART1 TX)
+* Pin 7 (RXI) - GP4 (UART1 TX)
 
-Pin 8: 3.3V
+* Pin 8 - 3.3V
 
 Other pins n.c.
 
