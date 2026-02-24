@@ -213,7 +213,7 @@ int startServerWiFi(uint8_t buf[], int len, int WDindicator)
         
         uint16_t rawRHSensor = adc_read(); // raw value (max 4095)
         float physicalRHSensor = ((((rawRHSensor-815)/2.6)*3.3)/4095)*100; // maths for the RH sensor HIH4020 (including an offset), essentially for 25°C; voltage divider with 10k+10k and 100k on sensor output; note: sensor is ratiometric to supply voltage       
-        uint16_t physicalRHSensorT = (uint16_t)(physicalRHSensor/(1.0546-0.00216*physicalTempSensor)); // with temperature compensation
+        uint16_t physicalRHSensorT = (uint16_t)(physicalRHSensor/(1.0546-0.00216*physicalTempSensor)); // temperature compensation, see data sheet
         
         adc_select_input(2); // ADC2 on Pin 34
         
