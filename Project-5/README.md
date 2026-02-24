@@ -28,7 +28,7 @@ With all that being said, you'll probably see that the given code example is onl
 
 ## Hardware
 
-The ad-hoc arrangement. Wiring Sensors to ADCs see source code. Wiring ESP8266 - Pico (all other pins not connected):
+An ad-hoc arrangement. Wiring sensors to ADC1-ADC3 see source code. Wiring ESP8266 to Pico (all other pins not connected):
 
 * Pin 1 - GND
 
