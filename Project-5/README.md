@@ -40,4 +40,4 @@ The ad-hoc arrangement. Wiring Sensors to ADCs see source code. Wiring ESP8266 -
 
 * Pin 8 - 3.3V
 
-![Konfiguration--HIH4020-103AT2-SFH300--edited](https://github.com/user-attachments/assets/4849d053-7d6d-408c-93bc-e882a25d550d)
+![Konfiguration--HIH4020-103AT2-SFH300--edited](https://github.com/user-attachments/assets/311992f0-0284-49af-97a9-ccfbcf264207)
