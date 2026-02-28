@@ -20,7 +20,7 @@ SW 1.0x -> IoT, the webserver provides the complete sensor data that can be rend
 
 ## Thermal image 
 
-Example visualization of a human upper body. The Python scripts which do that can be found in this repository.
+Example visualization of a human upper body. The Python scripts which do that can be found in this repository ("webcrawling" folder).
 
 ![thumbnail-collage](https://github.com/user-attachments/assets/bcc4dd39-b12b-46b2-996c-a4660ba12d13)
 
