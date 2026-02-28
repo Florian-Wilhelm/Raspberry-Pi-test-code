@@ -2,7 +2,7 @@
 
 ## Description
 
-An IoT device comprising a Raspberry Pi Pico, three sensors (including the HIH4020 air humidity sensor), additional passive electronic components and the ESP8266. 
+An IoT device comprising a Raspberry Pi Pico, three sensors (including the HIH4020 air humidity sensor), additional passive electronic components and the ESP8266 for WiFi. 
 
 ## Test Software
 
