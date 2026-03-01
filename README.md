@@ -28,7 +28,7 @@ https://hackaday.io/project/181570-simple-weather-station-lcd-mqtt
 
 https://hackaday.io/project/178522-moisturehumidity-measurement-device
 
-**Project 4 - TBD**
+**Project 4 - deleted**
 
 tbd
 
