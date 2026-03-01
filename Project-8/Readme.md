@@ -10,6 +10,6 @@ Just a raw output in decimal format is provided on either OLED display and on th
 
 ## Hardware
 
-See "connections.h" file for used pins and controllers. PCB is from another project (burglar detection).
+See "connections.h" file for used pins and controllers. I've created the PCB originally for the burglar detection project.
 
 ![TSL25911-OLED](https://github.com/user-attachments/assets/68f30d52-ada1-430a-b75a-562450a37af7)
