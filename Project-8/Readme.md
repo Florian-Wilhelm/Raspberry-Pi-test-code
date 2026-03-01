@@ -2,12 +2,14 @@
 
 ## Description
 
-tbd 
+Ambient light measurement with TSL25911 sensor, for whatever use.
 
 ## Test Code
 
-tbd
+Just a raw output in decimal format is provided on either OLED display and on the serial port.
 
 ## Hardware
 
-tbd
+See "connections.h" file for used pins and controllers.
+
+![TSL25911-OLED](https://github.com/user-attachments/assets/68f30d52-ada1-430a-b75a-562450a37af7)
