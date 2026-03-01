@@ -6,7 +6,7 @@ Ambient light measurement with TSL25911 sensor, for whatever use.
 
 ## Test Code
 
-Just a raw output in decimal format is provided on either OLED display and on the serial port.
+Just a raw output in decimal format is provided on either OLED display and on the serial port (High Byte and Low Byte CH0 and CH1, 8-bit is 0..255).
 
 ## Hardware
 
