@@ -105,7 +105,7 @@ int main()
     */
     
     // see data sheet, it's a bit tricky with the registers  
-     
+     /*
     uint8_t TSL25911_init_0[] = {0xA0};  // COMMAND register, normal operation, adressing ENABLE register   
     i2c_write_blocking(I2C_ID, 0x29, TSL25911_init_0, 1, true);  
     while (i2c_read_blocking(I2C_ID, 0x29, TSL25911_init_0, 1, false) < 0)  // repeats until the slave device sends ACK
@@ -119,7 +119,7 @@ int main()
     {
       sleep_ms(1);
     };  
-  
+    */
     uint8_t TSL25911_init_2[] = {0xA1};  // COMMAND register, normal operation, adressing CONFIG/CONTROL register 
     i2c_write_blocking(I2C_ID, 0x29, TSL25911_init_2, 1, true); 
     while (i2c_read_blocking(I2C_ID, 0x29, TSL25911_init_2, 1, false) < 0)  // repeats until the slave device sends ACK
@@ -127,7 +127,7 @@ int main()
       sleep_ms(1);
     };   
     
-    uint8_t TSL25911_init_3[] = {0xA1};  //  CONFIG/CONTROL register, modifying gain mode and integration time
+    uint8_t TSL25911_init_3[] = {0x14};  //  CONFIG/CONTROL register, modifying gain mode and integration time
     i2c_write_blocking(I2C_ID, 0x29, TSL25911_init_3, 1, true);  
     while (i2c_read_blocking(I2C_ID, 0x29, TSL25911_init_3, 1, false) < 0)  // repeats until the slave device sends ACK
     {
