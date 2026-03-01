@@ -2,7 +2,7 @@
 
 ## Description
 
-Ambient light measurement with TSL25911 sensor, for whatever purpose.
+Ambient light measurement with TSL25911 sensor.
 
 ## Test Code
 
