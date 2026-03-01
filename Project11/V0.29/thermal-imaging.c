@@ -126,7 +126,7 @@ int main()
      Initialize the TSL25911 sensor
      */
     
-    // see data sheet, it is a bit tricky with the registers (the code below is flawed, bit I do not use this sensor anyway) 
+    // see data sheet, it is a bit tricky with the registers (the code below is flawed, but I do not use this sensor anyway) 
      
     uint8_t TSL25911_init_0[] = {0xA0};  // COMMAND register, normal operation, adressing ENABLE register   
     i2c_write_blocking(I2C_ID, 0x29, TSL25911_init_0, 1, true);  
