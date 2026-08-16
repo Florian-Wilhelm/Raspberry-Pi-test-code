@@ -24,7 +24,7 @@ The GPS data on the second photo is generated while standing next to the Tabaret
 
 Note: this project is purely experimental, so my hardware arrangements are always slightly different (and so are the scripts I'm using).
 
-![344368826-2cae6269-d276-4e12-a081-d1e77e937b67](https://github.com/user-attachments/assets/c9d366d2-c749-4118-a355-9b1bc5232a29)
+<img width="900" height="600" alt="Pico-GPS-L76B--config" src="https://github.com/user-attachments/assets/53c13a1d-342b-4fbb-ad9e-235637d50a13" />
 
 <img width="900" height="506" alt="20260730_Tabarettahuette-GPS" src="https://github.com/user-attachments/assets/ea08d78b-b2c4-48e8-86d7-f09f837ae63f" />
 
