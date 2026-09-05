@@ -18,7 +18,7 @@ Schematic Micro SD-Card board:
 
 ### Example arrangement and demo
 
-GPS Data will be stored permanently on the SD-Card, and is also available as text output in the Thonny shell as well as visible on the OLED display. Arrangement can be used stand-alone, then you have just the output on the display obviously.
+GPS Data will be stored permanently on the SD-Card. It is also available as text output in the Thonny shell, as well as visible on the OLED display. Arrangement can be used stand-alone, then you have of course just the visual output on the display.
 
 The GPS data on the second photo is generated while standing next to the Tabarettahütte (Ortlergebirge, South Tyrol), Pico and GPS module get supplied by a power bank (on the first photo you do not see much on the OLED display because there is a problem as to the screen refresh rates and camera shutter speed).
 
